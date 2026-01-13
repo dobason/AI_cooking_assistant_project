@@ -1,1 +1,1 @@
-# Eggdrop_bakery
+# AI cooking assistant
